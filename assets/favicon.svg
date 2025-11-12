@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <rect width="256" height="256" rx="56" fill="#0ea5e9"/>
+  <g stroke="#06202e" stroke-width="12" stroke-linecap="round">
+    <path d="M60 178l40-92 52 120 44-88" fill="none"/>
+    <circle cx="60" cy="178" r="10" fill="#06202e"/>
+    <circle cx="196" cy="118" r="10" fill="#06202e"/>
+  </g>
+  <text x="128" y="228" font-family="Arial, sans-serif" font-size="28" text-anchor="middle" fill="#06202e">TS</text>
+</svg>
